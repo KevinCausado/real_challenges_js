@@ -1,0 +1,49 @@
+body {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color: #d5e1ef;
+  font-family: sans-serif;
+  
+}
+
+.qr-image {
+  width: 100%;
+  border-radius: 15px;
+  height: auto;
+  display: block;
+}
+
+
+.card {
+  width: 300px;
+  background-color: white;
+  border-radius: 15px;
+  padding: 1rem;
+  box-shadow: 0 4px 20px rgba(0 0 0 )  
+}
+
+.qr-container{
+  padding: 1rem;
+  background: white;
+  border-radius: 15px;
+}
+
+h2{
+color:#1f2937;
+margin:0 0 1rem 0;
+font-weight: 700;
+font-size: 1.25rem;
+}
+
+p{
+color: #1f2937;
+line-height: 1.5;
+margin:0;
+padding: 0 1rem;
+font-size: 0.875;
+}
+
